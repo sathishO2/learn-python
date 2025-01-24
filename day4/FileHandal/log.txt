@@ -1,0 +1,5 @@
+log 1
+log 2
+log 3
+New log entry
+New log entry

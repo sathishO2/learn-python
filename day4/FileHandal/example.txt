@@ -1,0 +1,1 @@
+Write a Python program to read the entire content of a text file named "example.txt" and print it to the console.
